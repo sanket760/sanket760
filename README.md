@@ -26,8 +26,6 @@
 - **Online Examination System**  
   *Full-stack web application built with MERN stack for hosting objective answer-type exams with authentication and session management*  
   - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Passport.js, Redux
-  - GitHub Repo: [Link to repo]
-  - Live Demo: [Link to demo]
 
 ---
 ### 🎓 Education & Certifications:
