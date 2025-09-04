@@ -40,9 +40,7 @@
 ---
 ### 📫 Let's Connect:
 - **LinkedIn:** [sanket-d-kale](https://www.linkedin.com/in/sanket-d-kale/)
-- **Email:** sdkale.work@gmail.com
-- **GitHub:** [sanket760](https://github.com/sanket760)
----
-### 📊 GitHub Stats:
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket760&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanket760&layout=compact&theme=radical)
+
+<!-- ### 📊 GitHub Stats: >
+<! [Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket760&show_icons=true&theme=radical) >
+<! [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanket760&layout=compact&theme=radical)  -->
